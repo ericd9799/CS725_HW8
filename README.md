@@ -1,1 +1,1 @@
-##Eric Diep, CS725 - Homework 8##
+**Eric Diep, CS725 - Homework 8**
