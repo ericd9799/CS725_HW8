@@ -17,5 +17,6 @@ In the image below, I took the original chart and applied grayscale to the image
 ![alt text](OutofWork_ColumnChart_WSJ_BW.jpg)
 
 # Analysis
+The provided dataset is a table with the rows being year, and the columns being the ethnicities. The percentage of families with at least one member unemployed are populated within the fields.
 
 # Alternate
