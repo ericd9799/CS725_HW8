@@ -3,7 +3,7 @@
 # Original Chart
 The chart selected for critique and redesign is chart 2 - paired column chart.
 
-![alt text](OutofWork_ColumnChart_WSJ.jpg)
+![alt text](OutofWork_ColumnChart_WSJ.jpg "Original Graph")
 
 The chart is comprised of point marks, and length channel. The vertical spatial position represents the category of ethnicities, and horiztonal spatial position represents the percentage of families where at least one member is unemployed. Color hue is an identity channel used to categorize the ethnicities. In addition, bar chart glpyh is used to be able to present the finding for each year.
 
@@ -14,7 +14,7 @@ If I need to compare the change among one ethnicity, this would be challenging b
 
 In the image below, I took the original chart and applied grayscale to the image. As seen, it is hard to tell apart certain categories. The colormap selected for does not pass the guideline of do it right in black and white.
 
-![alt text](OutofWork_ColumnChart_WSJ_BW.jpg)
+![alt text](OutofWork_ColumnChart_WSJ_BW.jpg "Original Graph Black and White")
 
 # Analysis
 The provided dataset is a table with the rows being year, and the columns being the ethnicities. The percentage of families with at least one member unemployed are populated within the fields.
@@ -24,11 +24,15 @@ Below is an alternate to the original graph. The idiom used is a line chart with
 
 I choose to use the line chart with point markers idiom because this allowed for all the graphs to be in one chart. Also, we are able to compare values between and within groups much easier. With the lines connecting the points, we are able to spot trends and features much easier. We are able to pinpoint plateaus, and dramatic increase or decreases in the graphs.  
 
-![alt text](Alternate1_v2.PNG)
+![alt text](Alternate1_v2.PNG "Alternate Graph 1")
+
+Below is the first alternate graph converted to black and white. As we see, the colors selected from Color Brewer allowed for each category to stand out even when black-and-white.
+
+![alt text](Alternate1_v2_BW.PNG "Alternate Graph 1 Black and White")
 
 Below is a second alternate to the original graph. The idiom used is small multiple line chart. Just like the graph above, the same marks and channels are used. Annotation of the point's value are added, since there is more space in each graph. The difference is each ethnicity has its own graph rather than one chart displaying the 4 ethnicity in one. This allows for comparision among the ethnicity to be simplier. However, this alternate would make comparing between ethnicities a bit harder, but labels are added in hopes of making comparison a bit easier. The graphs are stacked on top of each other to allow for the years to line up. Also, this would allow for comparison of change.
 
-![alt text](Alternate2_SmallMultiple.png)
+![alt text](Alternate2_SmallMultiple.png "Alternate Graph 2")
 
 # Reference
 [ColorBrewer 2.0](http://colorbrewer2.org)
