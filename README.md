@@ -20,9 +20,9 @@ In the image below, I took the original chart and applied grayscale to the image
 The provided dataset is a table with the rows being year, and the columns being the ethnicities. The percentage of families with at least one member unemployed are populated within the fields.
 
 # Alternate
-Below is an alternate to the original graph. The idiom used is a connected scatterplot. Point marks are used to plot values, and line marks are used to connect the points to show temporal order. The vertical spatial position represents the year, and the horizontal spatial position represents the percentage value. Originally, the y-axis started at 0, but this left unused space. Thus, I decided to start the y-axis at 4. I also used Color Brewer tool to select colors that would stand out if the graph is converted to black-and-white.
+Below is an alternate to the original graph. The idiom used is a line chart with point markers. Point marks are used to plot values, and line marks are used to connect the points to show temporal order. The vertical spatial position represents the year, and the horizontal spatial position represents the percentage value. Originally, the y-axis started at 0, but this left unused space. Thus, I decided to start the y-axis at 4. I also used Color Brewer tool to select colors that would stand out if the graph is converted to black-and-white.
 
-I choose to use the connected scatterplot idiom because this allowed for all the graphs to be in one chart. Also, we are able to compare values between and within groups much easier. With the lines connecting the points, we are able to spot trends and features much easier. We are able to pinpoint plateaus, and dramatic increase or decreases in the graphs.  
+I choose to use the line chart with point markers idiom because this allowed for all the graphs to be in one chart. Also, we are able to compare values between and within groups much easier. With the lines connecting the points, we are able to spot trends and features much easier. We are able to pinpoint plateaus, and dramatic increase or decreases in the graphs.  
 
 ![alt text](Alternate1_v2.PNG)
 
