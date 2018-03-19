@@ -26,7 +26,7 @@ I choose to use the line chart with point markers idiom because this allowed for
 
 ![alt text](Alternate1_v2.PNG)
 
-Below is a second alternate to the original graph. The idiom used is small multiple line chart. Just like the graph above, the same marks and channels are used. The difference is each ethnicity has its own graph rather than one chart displaying the 4 ethnicity in one. This allows for comparision among the ethnicity to be simplier. However, this alternate would make comparing between ethnicities a bit harder.
+Below is a second alternate to the original graph. The idiom used is small multiple line chart. Just like the graph above, the same marks and channels are used. Annotation of the point's value are added, since there is more space in each graph. The difference is each ethnicity has its own graph rather than one chart displaying the 4 ethnicity in one. This allows for comparision among the ethnicity to be simplier. However, this alternate would make comparing between ethnicities a bit harder, but labels are added in hopes of making comparison a bit easier.
 
 ![alt text](Alternate2_SmallMultiple.png)
 
