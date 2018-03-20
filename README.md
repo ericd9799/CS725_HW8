@@ -35,4 +35,6 @@ Below is a second alternate to the original graph. The idiom used is small multi
 ![alt text](Alternate2_SmallMultiple.png "Alternate Graph 2")
 
 # Reference
-[ColorBrewer 2.0](http://colorbrewer2.org)
+* [ColorBrewer 2.0](http://colorbrewer2.org)
+* [CS725, Homework 8](http://www.cs.odu.edu/~mweigle/CS725-S18/HW8)
+* [Paired Column Chart Data](http://policyviz.com/wp-content/uploads/2018/02/PolicyViz_WSJ_Remake.xlsx)
